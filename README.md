@@ -1,4 +1,6 @@
 # jobfinal
+Backend code with basic Object Oriented Design for a job search portal. 
+
 
 INPUT FORMATS FOR DIFFERENT COMMANDS
 
